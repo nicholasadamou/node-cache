@@ -1,0 +1,5 @@
+---
+applications:
+  - name: node-cache
+    random-route: true
+    memory: 1024M
